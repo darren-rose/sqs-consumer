@@ -1,4 +1,4 @@
-# sqs-reader
+# sqs-consumer
 
 ### env vars
 
